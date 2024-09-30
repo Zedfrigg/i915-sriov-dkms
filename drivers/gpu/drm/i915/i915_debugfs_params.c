@@ -5,6 +5,7 @@
 
 #include <linux/debugfs.h>
 #include <linux/kernel.h>
+#include <linux/debugfs.h>
 
 #include "i915_debugfs_params.h"
 #include "gt/intel_gt.h"

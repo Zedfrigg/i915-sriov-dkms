@@ -24,6 +24,7 @@
 
 #include <linux/debugfs.h>
 #include <linux/firmware.h>
+#include <linux/debugfs.h>
 
 #include "i915_drv.h"
 #include "i915_reg.h"
